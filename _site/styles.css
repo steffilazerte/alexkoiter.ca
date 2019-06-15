@@ -1,0 +1,23 @@
+body {
+  color: #474646;
+}
+
+img {
+  padding: 15px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+  color: white;
+  font-size: 150%;
+}

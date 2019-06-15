@@ -1,0 +1,14 @@
+---
+  title: "Contact"
+---
+
+Department of Geography  
+Brandon University  
+270 – 18th Street  
+Brandon, Manitoba  
+R7A 6A9 Canada  
+E-mail: <koitera@brandonu.ca>
+
+Research Gate Profile: <https://www.researchgate.net/profile/Alexander_Koiter>  
+GitHub: [alex-koiter](https://github.com/alex-koiter)  
+ORCiD: <https://orcid.org/0000-0002-9355-9561>

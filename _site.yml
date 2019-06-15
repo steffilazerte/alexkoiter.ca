@@ -1,0 +1,22 @@
+name: "Dr. Alex Koiter"
+navbar:
+  title: "Dr. Alex Koiter"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "My Lab"
+      href: lab.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Publications etc."
+      href: publications_etc.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    theme: journal
+    include:
+      after_body: footer.html
+    css: styles.css
