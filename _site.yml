@@ -18,4 +18,3 @@ output:
   html_document:
     theme: journal
     css: styles.css
-output_dir: "."
